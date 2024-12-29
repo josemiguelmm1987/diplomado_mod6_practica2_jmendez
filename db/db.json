@@ -1,0 +1,135 @@
+{
+  "remitentes": [
+    {
+      "id": "1",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "telefono": "60183005",
+      "email": "juan.perez@example.com",
+      "direccion": "Calle 16 de julio #234"
+    },
+    {
+      "id": "2",
+      "nombre": "Alan",
+      "apellido": "Brito Delgado",
+      "telefono": "60167394",
+      "email": "alan.brito@example.com",
+      "direccion": "Avenida Pando #567"
+    },
+    {
+      "id": "3",
+      "nombre": "Soyla",
+      "apellido": "Vaca",
+      "telefono": "72934859",
+      "email": "soyla.vaca@example.com",
+      "direccion": "Calle Bahía #987"
+    },
+    {
+      "id": "4",
+      "nombre": "Luis",
+      "apellido": "García",
+      "telefono": "60198765",
+      "email": "luis.garcia@example.com",
+      "direccion": "Avenida Fernández Molina #456"
+    },
+    {
+      "nombre": "JOSE MIGUEL",
+      "apellido": "MENDEZ MELENA",
+      "telefono": "60183005",
+      "email": "josemiguelmm1987@gmail.com",
+      "direccion": "Calle San Francisco de Asis #44, Cobija, Bolivia",
+      "id": "UVYqT-f"
+    }
+  ],
+  "hojarutas": [
+    {
+      "id": "1",
+      "codigo_hojaruta": "HR 455/07/2024",
+      "referencia": "SOLICITUD DE SITUACIÓN ACTUAL SOBRE CONSTRUCCIÓN ILEGAL DEL PASILLO DEL BARRIO MIRAFLORES (EX PAYOL)",
+      "fecha_recepcion": "2024-10-24",
+      "remitenteId": "1",
+      "remitente": {
+        "id": "1",
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "telefono": "60183005",
+        "email": "juan.perez@example.com",
+        "direccion": "Calle 16 de julio #234"
+      }
+    },
+    {
+      "id": "2",
+      "codigo_hojaruta": "HR 2873/12/2024",
+      "referencia": "NOTA DE ACOMPAÑAMIENTO EN ATENCIÓN A SOLICITUD DE CAMBIO DE LUMINARIAS DE LA VÍA PÚBLICA DEL BARRIO ROBERTO ROJAS",
+      "fecha_recepcion": "2024-12-14",
+      "remitenteId": "1",
+      "remitente": {
+        "id": "1",
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "telefono": "60183005",
+        "email": "juan.perez@example.com",
+        "direccion": "Calle 16 de julio #234"
+      }
+    },
+    {
+      "id": "3",
+      "codigo_hojaruta": "HR 2867/12/2024",
+      "referencia": "PONE EN SU CONOCIMIENTO Y SOLICITA SUSPENSIÓN DE TRABAJOS DE CONSTRUCCIÓN",
+      "fecha_recepcion": "2024-05-12",
+      "remitenteId": "2",
+      "remitente": {
+        "id": "2",
+        "nombre": "Alan",
+        "apellido": "Brito Delgado",
+        "telefono": "60167394",
+        "email": "alan.brito@example.com",
+        "direccion": "Avenida Pando #567"
+      }
+    },
+    {
+      "id": "4",
+      "codigo_hojaruta": "HR 2849/12/2024",
+      "referencia": "PROYECTO DE LEY DE REGULACIÓN DE TRANSPORTE COMERCIAL DE CARGA PESADA Y CARGA DE SUSTENCIAS PELIGROSAS AL CENTRO DE LA CIUDAD DE COBIJA",
+      "fecha_recepcion": "2024-11-14",
+      "remitenteId": "3",
+      "remitente": {
+        "id": "3",
+        "nombre": "Soyla",
+        "apellido": "Vaca",
+        "telefono": "72934859",
+        "email": "soyla.vaca@example.com",
+        "direccion": "Calle Bahía #987"
+      }
+    },
+    {
+      "remitenteId": "3",
+      "codigo_hojaruta": "HR 2219/07/2024",
+      "referencia": "PIDE TOMAR EN CUENTA ASPECTOS A FIN DE APROBAR LA REGULARIZACIÓN DE LA URBANIZACIÓN MONTE LÍBANO",
+      "fecha_recepcion": "2024-09-03",
+      "id": "QQ6vTdd",
+      "remitente": {
+        "id": "3",
+        "nombre": "Soyla",
+        "apellido": "Vaca",
+        "telefono": "72934859",
+        "email": "soyla.vaca@example.com",
+        "direccion": "Calle Bahía #987"
+      }
+    },
+    {
+      "remitenteId": "1",
+      "codigo_hojaruta": "HR 2468/09/2024",
+      "referencia": "SOLICITA REMITIR A MEDIO AMBIENTE PARA DERRIBO DE PALMERA",
+      "fecha_recepcion": "2024-06-13",
+      "id": "CLfX-xo"
+    },
+    {
+      "remitenteId": "UVYqT-f",
+      "codigo_hojaruta": "HR 4567/08/2024",
+      "referencia": "SOLICITUD DE FISCALIZACIÓN AL PROYECTO DE LUMINARIAS LED",
+      "fecha_recepcion": "2024-12-20",
+      "id": "NOkT6F7"
+    }
+  ]
+}
